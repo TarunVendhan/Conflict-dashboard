@@ -1,0 +1,19 @@
+.gitignore
+# Ignore Python artifacts
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Ignore environment and config files
+.env
+*.log
+*.sqlite3
+
+# Ignore Node.js artifacts (if expanded)
+node_modules/
+dist/
+build/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db” is this for .gitignore or for README.md?

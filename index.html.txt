@@ -1,0 +1,32 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Conflict Risk Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Conflict Prediction Model</h1>
+    <p>Real-time geopolitical risk insights</p>
+  </header>
+
+  <section id="dashboard">
+    <div class="region-card">
+      <h2>India</h2>
+      <p><strong>Conflict Probability:</strong> <span class="highlight">42%</span></p>
+      <ul>
+        <li>🔺 Defense Stocks: +6.3%</li>
+        <li>🪙 Crypto: +9.1%</li>
+        <li>🛢️ Oil: +4.8%</li>
+      </ul>
+      <p><strong>Triggers:</strong> LoC skirmishes, Chinese troop movement</p>
+      <p><strong>Recommendation:</strong> Monitor LoC, hedge energy exposure</p>
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>

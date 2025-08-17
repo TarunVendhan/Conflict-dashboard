@@ -1,0 +1,26 @@
+style.css
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fff;
+  color: #111;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+.region-card {
+  background: #f9f9f9;
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 600px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+.highlight {
+  color: #d9534f;
+  font-weight: bold;
+}
